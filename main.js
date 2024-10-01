@@ -17,7 +17,7 @@ function keyReturn(event) {
 
 
 // Write a named function with event handler properties
-function someName(note) {
+function keyColor(note) {
   note.onmousedown = function() {
     keyPlay(event);
   }
@@ -28,7 +28,7 @@ function someName(note) {
 
 // Write a loop that runs the array elements through the function
 
-notes.forEach(someName);
+notes.forEach(keyColor);
 
 
 // These variables store the buttons that progress the user through the lyrics
