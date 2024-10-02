@@ -3,5 +3,5 @@ This was another Codecademy project. A simple piano was already created in HTML/
 * Two functions that turns the key back to its original color after mouseup is fired.
 * A method at loops through the notes array .forEach()
 * Three functions that add/removes lyrics/notes as the song progresses. 
-* A function that starts the lyrics/notes from scratch.
+* A function that starts the lyrics/notes from scratch.\
 I saved this because I hope to add note sounds to the keys in the future.
